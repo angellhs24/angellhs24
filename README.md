@@ -1,20 +1,18 @@
 <!-- ========================================================= -->
-
 <!--                 ÁNGEL HERNÁNDEZ · GITHUB                  -->
-
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=190&section=header&text=Ángel%20Hernández&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descSize=17&descAlignY=58&descColor=9BE7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F59E0B&height=190&section=header&text=Ángel%20Hernández&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descSize=17&descAlignY=58&descColor=FDE68A"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+systems+from+scratch.;Learning+how+software+works+behind+the+scenes.;Solving+problems+with+code.;Currently+focused+on+Backend+Development." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+systems+from+scratch.;Learning+how+software+works+behind+the+scenes.;Solving+problems+with+code.;Currently+focused+on+Backend+Development." />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-angellhs24-0D1117?style=for-the-badge\&logo=github\&logoColor=00D9FF)](https://github.com/angellhs24)
-[![Instagram](https://img.shields.io/badge/Instagram-angells2426-0D1117?style=for-the-badge\&logo=instagram\&logoColor=00D9FF)](https://www.instagram.com/angells2426/)
-[![Email](https://img.shields.io/badge/Email-lhernandez.angells2426%40gmail.com-0D1117?style=for-the-badge\&logo=gmail\&logoColor=00D9FF)](mailto:lhernandez.angells2426@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-angellhs24-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/angellhs24)
+[![Instagram](https://img.shields.io/badge/Instagram-angells2426-0D1117?style=for-the-badge&logo=instagram&logoColor=F59E0B)](https://www.instagram.com/angells2426/)
+[![Email](https://img.shields.io/badge/Email-lhernandez.angells2426%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:lhernandez.angells2426@gmail.com)
 
 </div>
 
@@ -263,9 +261,9 @@ English                 █████░░░░░
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=angellhs24&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=angellhs24&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=FFFFFF&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellhs24&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellhs24&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=FFFFFF" />
 
 </div>
 
@@ -317,7 +315,7 @@ English                 █████░░░░░
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:0D1117&height=100&section=footer"/>
 
 **Thanks for visiting my profile.**
 
