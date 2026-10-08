@@ -98,7 +98,7 @@ Sistema cliente-servidor para gestionar pacientes, citas y expedientes dentro de
 ### 🛠️ Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 > **Nota:** No considero que domine todas estas tecnologías. Algunas forman parte de mi aprendizaje actual y otras son tecnologías con las que ya he trabajado.
