@@ -80,7 +80,7 @@ Sistema cliente-servidor para gestionar pacientes, citas y expedientes dentro de
 ### 💻 Lenguajes
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Web
